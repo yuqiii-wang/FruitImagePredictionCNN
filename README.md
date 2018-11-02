@@ -1,5 +1,5 @@
 # FruitImagePredictionCNN
-This is an attempted solution to classification of 18 fruit categories via bilinear CNN, with an built app able to make real time prediction. The data set consists of 2400 fruit images from various sources. The top prediction accuracy is 93%.
+This is an attempted solution to classification of 18 fruit categories via bilinear CNN, with an built app able to make real time prediction. The data set consists of 2400 fruit images from various sources. The top prediction accuracy is 93%, ranked the 4th out of 20 teams.
 
 #### About main_code.py
 This .py file lists all developed CNN models for the Fruit prediction. However, there are improvements: larger batch_size, more crop solutions that generates/affines to more images.
